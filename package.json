@@ -1,0 +1,26 @@
+{
+  "name": "pusha-botxd",
+  "version": "1.0.0",
+  "description": "pusha bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "x"
+  },
+  "keywords": [
+    "aspendos",
+    "theaspendos",
+    "pusha"
+  ],
+  "author": "Pusha",
+  "license": "MIT",
+  "dependencies": {
+    "ark.db": "^2.7.1",
+    "discord-buttons": "^2.4.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.27.0"
+  }
+}
