@@ -1,10 +1,10 @@
-# Bu Bot Çekiliş Katılımcısı Etkinlik Katılımcısı Buttonlu Versiyonu'dur
+## Bu Bot Çekiliş Katılımcısı Etkinlik Katılımcısı Buttonlu Versiyonu'dur
 
-# Buttonu Aktif Ettiginiz Zaman Böyle Gözüküyor
+## Buttonu Aktif Ettiginiz Zaman Böyle Gözüküyor
 
 <img src="https://cdn.discordapp.com/attachments/960213823141339206/962662811924832296/unknown.png">
 
-# Doldurulması Gereken Kısımlar İse 
+## Doldurulması Gereken Kısımlar İse 
 
  ```js
  {
@@ -44,5 +44,5 @@
  ```
  # BUNLARIN HEPSİNİ EKSİKSİZ DOLRURSANIZ BOT OTOMATİK AKTİF OLUCAKTIR
  
- # İnstagram Hesabım 
+ ## İnstagram Hesabım 
 ![](https://komarev.com/ghpvc/?username=Alencia)
