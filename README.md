@@ -43,6 +43,4 @@
     }
  ```
  # BUNLARIN HEPSİNİ EKSİKSİZ DOLRURSANIZ BOT OTOMATİK AKTİF OLUCAKTIR
- 
- ## İnstagram Hesabım 
-![](https://komarev.com/ghpvc/?username=Alencia)
+ ![](https://komarev.com/ghpvc/?username=Alencia)
