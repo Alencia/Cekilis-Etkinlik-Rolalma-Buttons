@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 # Bu Bot Çekiliş Katılımcısı Etkinlik Katılımcısı Buttonlu Versiyonu'dur
 
 # Buttonu Aktif Ettiginiz Zaman Böyle Gözüküyor
@@ -46,4 +45,4 @@
  # BUNLARIN HEPSİNİ EKSİKSİZ DOLRURSANIZ BOT OTOMATİK AKTİF OLUCAKTIR
  
  # İnstagram Hesabım 
- <i class="fa fa-instagram" style="font-size:36px"></i> Alenciayz
+<img src="https://cdn.discordapp.com/emojis/946391157196337183.gif?size=96&quality=lossless"> Alenciayz
