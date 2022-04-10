@@ -45,4 +45,4 @@
  # BUNLARIN HEPSİNİ EKSİKSİZ DOLRURSANIZ BOT OTOMATİK AKTİF OLUCAKTIR
  
  # İnstagram Hesabım 
-<img src="https://cdn.discordapp.com/emojis/903909429227950131.webp?size=96&quality=lossless"> Alenciayz
+<img src="https://cdn.discordapp.com/emojis/903909429227950131.webp?size=96&quality=lossless" width="65"> Alenciayz
